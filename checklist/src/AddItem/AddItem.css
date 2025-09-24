@@ -1,0 +1,10 @@
+.itemAdding {
+    height: 32px;
+    font-size: 1em;
+    color: rgb(7, 7, 59);
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(224, 224, 224);
+    border-color: rgb(7, 7, 59);
+    border-width: 3px;
+}

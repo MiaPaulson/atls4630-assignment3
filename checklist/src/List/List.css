@@ -1,0 +1,21 @@
+.list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 50%;
+}
+
+
+.deleteAllCheckedItems {
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(209, 77, 77);
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+
+.deleteAllCheckedItems:hover {
+    background-color: rgb(209, 77, 77);
+    color: rgb(224, 224, 224);
+}
