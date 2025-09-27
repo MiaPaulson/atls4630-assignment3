@@ -18,6 +18,7 @@ My states are:
 1. Is the "add item" open? - boolean state (true: show the input bar)
 2. Add items to checklist - with ListItemData
 3. Is the item "checked"? - boolean state (true: can be deleted by "clear all checked items")
+4. The input value??
 Deleting the "checked" items is not a state since the "is checked" can be passed down from a parent and deleted from there.
 
 My states will live at (color coded and next to their branches):
