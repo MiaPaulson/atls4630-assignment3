@@ -23,3 +23,8 @@ Deleting the "checked" items is not a state since the "is checked" can be passed
 
 My states will live at (color coded and next to their branches):
 <img width="328" height="268.33" alt="image" src="https://github.com/user-attachments/assets/1324a33b-1bb5-49c0-a58b-3d1e6a27497e" />
+
+
+After coding for hours and not really getting anywhere to make it work, I decided to not have the plus button "show" the input bar but instead have that plus button be what adds the item. Therefore, "add item" won't be open, it'll be "done".
+
+OMG I AM SO CONFUSED WHY IS NOTHING WORKING AFLJGALOFBLSDJRGAHEROGJ
