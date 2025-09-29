@@ -6,7 +6,7 @@
 }
 
 
-.deleteAllCheckedItems {
+.deleteAllItems {
     background-color: rgba(255, 255, 255, 0);
     color: rgb(209, 77, 77);
     border: none;
@@ -15,7 +15,31 @@
     
 }
 
-.deleteAllCheckedItems:hover {
+.deleteAllItems:hover {
     background-color: rgb(209, 77, 77);
     color: rgb(224, 224, 224);
 }
+
+
+.itemAdding {
+    height: 32px;
+    font-size: 1em;
+    color: rgb(7, 7, 59);
+    border-radius: 10px;
+    margin: 10px;
+    background-color: rgb(224, 224, 224);
+    border-color: rgb(7, 7, 59);
+    border-width: 3px;
+    margin-left: 64px;
+
+}
+
+/* .checkbox {
+    height: 32px;
+    border-radius: 10px;
+    border: none;
+}
+
+.checkbox:hover {
+    background-color: rgb(77, 209, 108);
+} */
