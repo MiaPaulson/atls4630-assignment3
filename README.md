@@ -34,7 +34,7 @@ Looking into it more, I don't think I need the "addItem" stuff. I think all of t
 ....
 
 Alright, so I'm going to redo literally everything from above. Excuse my freak out. Trust me, that was nothing compared to the actual hairpulling over here. But I do apologize to anyone reading.
-
+\n
 <img width="226" height="300.33" alt="image" src="https://github.com/user-attachments/assets/eae340b8-e026-40f1-b3b3-9504458bcec0" />
 Above is my simple mockup for my checklist app. A user can: add to the to-do list, check things off, or delete individual items from the list entirely.
 
